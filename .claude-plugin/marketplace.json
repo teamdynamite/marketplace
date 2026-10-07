@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "teamdynamite",
+  "description": "Plugin marketplace for @teamdynamite",
+  "owner": {
+    "name": "teamdynamite"
+  },
+  "plugins": []
+}
