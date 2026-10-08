@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "linear-agent",
+  "description": "A plugin for interacting with Linear MCP using a client_credentials token",
+  "version": "0.0.0",
+  "author": {
+    "name": "teamdynamite"
+  }
+}

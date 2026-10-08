@@ -5,5 +5,10 @@
   "owner": {
     "name": "teamdynamite"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "linear-agent",
+      "source": "./plugins/linear-agent"
+    }
+  ]
 }
